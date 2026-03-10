@@ -30,7 +30,7 @@ export default function App() {
 
             <div className="p-4">
               <img
-                src="http://localhost:8000/video"
+                src="https://aws-backenc.onrender.com/video"
                 alt="Live Stream"
                 className="w-full rounded-xl border-2 border-emerald-400"
               />
